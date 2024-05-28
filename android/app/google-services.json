@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874338099633",
+    "project_id": "fire-cli-1",
+    "storage_bucket": "fire-cli-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874338099633:android:176cedcbc5665879bedd90",
+        "android_client_info": {
+          "package_name": "com.example.my_firebase_flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpGeyjIF0XrS14FaK_wiXYqSgHRjKELZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
