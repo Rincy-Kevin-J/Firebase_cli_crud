@@ -203,8 +203,7 @@ class _FireBaseCrudState extends State<FireBaseCrud> {
     return _userCollection.doc(id).delete().then((v) {
       print("User Deleted Successfully");
     }).catchError((error) {
-      print("Failed to delete User $error")
-      ;
+      print("Failed to delete User $error");
     });
   }
 }
