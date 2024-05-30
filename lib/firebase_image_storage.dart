@@ -27,6 +27,7 @@ class _ImgStorageState extends State<ImgStorage> {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
+
                 ElevatedButton.icon(
                   onPressed: () async {
                     if (await Permission.camera.request().isGranted) {
